@@ -3,11 +3,11 @@
 		"name": "Barcelona",
 		"images" : [
 			{
-				"src": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta1.jpeg?raw=true"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta1.jpeg"
 			},{
-				"src": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta2.jpeg?raw=true"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta2.jpeg"
 			},{
-				"src": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta3.jpeg?raw=true"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta3.jpeg"
 			}
 		]
 	}
