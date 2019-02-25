@@ -1,11 +1,14 @@
-{
-	"Barcelona": [
-		{
-			"img": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta1.jpeg?raw=true"
-		},{
-			"img": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta2.jpeg?raw=true"
-		},{
-			"img": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta3.jpeg?raw=true"
-		}
-	]
-}
+[
+	{
+		"name": "Barcelona",
+		"images" : [
+			{
+				"img": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta1.jpeg?raw=true"
+			},{
+				"img": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta2.jpeg?raw=true"
+			},{
+				"img": "https://github.com/fruedaCode/bachata_images/blob/master/bacahta3.jpeg?raw=true"
+			}
+		]
+	}
+]
