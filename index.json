@@ -3,10 +3,13 @@
 		"name": "Barcelona",
 		"images" : [
 			{
+				"title": "Manisero - Korke y Judith",
 				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta1.jpeg"
 			},{
+				"title": "Concierto Dani J",
 				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta2.jpeg"
 			},{
+				"title": "Aniversario vivaldi",
 				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta3.jpeg"
 			}
 		]
