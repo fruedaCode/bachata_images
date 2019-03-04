@@ -4,13 +4,27 @@
 		"images" : [
 			{
 				"title": "Manisero - Korke y Judith",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta1.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/manisero.jpeg"
 			},{
 				"title": "Concierto Dani J",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta2.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/danij.jpeg"
 			},{
 				"title": "Aniversario vivaldi",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/bacahta3.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/vivaldi.jpeg"
+			}
+		]
+	},{
+		"name": "Madrid",
+		"images" : [
+			{
+				"title": "Bachatongu",
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/bachatongu.jpeg"
+			},{
+				"title": "Congreso top bachata",
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/topBacahta.jpeg"
+			},{
+				"title": "U-Dance",
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/uDance.jpeg"
 			}
 		]
 	}
