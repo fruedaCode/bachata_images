@@ -1,30 +1,36 @@
 [
 	{
 		"name": "Barcelona",
-		"images" : [
+		"events" : [
 			{
 				"title": "Manisero - Korke y Judith",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/manisero.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/manisero.jpeg",
+				"date": "2019-03-04 22:00:00"
 			},{
 				"title": "Concierto Dani J",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/danij.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/danij.jpeg",
+				"date": "2019-03-05 22:00:00"
 			},{
 				"title": "Aniversario vivaldi",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/vivaldi.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/barcelona/vivaldi.jpeg",
+				"date": "2019-03-06 22:00:00"
 			}
 		]
 	},{
 		"name": "Madrid",
-		"images" : [
+		"events" : [
 			{
 				"title": "Bachatongu",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/bachatongu.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/bachatongu.jpeg",
+				"date": "2019-03-04 22:00:00"
 			},{
 				"title": "Congreso top bachata",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/topBacahta.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/topBacahta.jpeg",
+				"date": "2019-03-05 22:00:00"
 			},{
 				"title": "U-Dance",
-				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/uDance.jpeg"
+				"src": "https://raw.githubusercontent.com/fruedaCode/bachata_images/master/images/madrid/uDance.jpeg",
+				"date": "2019-03-06 22:00:00"
 			}
 		]
 	}
